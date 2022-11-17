@@ -10,7 +10,8 @@
 + Tuple
 + Slicing
 + String
-### List Comprehension
+### Comprehension
+### User Defined Functions
 ### For Loops
 + Sequence are Iterable
 + if elif and else Condition
